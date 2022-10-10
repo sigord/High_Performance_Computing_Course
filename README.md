@@ -1,2 +1,2 @@
-# High_Performance_Computing_Course
+# High Performance Computing Course
 High performance computing course at MADE
