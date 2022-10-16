@@ -59,11 +59,8 @@ double CalcMatMulTime_jik(double * A, double * B, double * C, size_t N)
 
     ZeroMatrix(&C[0], N);
 
-
     gettimeofday(&start, NULL);
     
-
-
     for (j = 0; j < N; j++)
         for(i = 0; i < N; i++)
         {

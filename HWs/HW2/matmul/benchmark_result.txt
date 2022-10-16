@@ -1,0 +1,266 @@
+Flag: -g
+N: 500
+runtime 0.462051 seconds
+runtime 0.436898 seconds
+runtime 0.432671 seconds
+runtime 0.435488 seconds
+runtime 0.437551 seconds
+average runtime ijk 0.440932 seconds
+---------------------------------
+runtime 0.438108 seconds
+runtime 0.438108 seconds
+runtime 0.437949 seconds
+runtime 0.437665 seconds
+runtime 0.438243 seconds
+average runtime jik 0.438015 seconds
+---------------------------------
+runtime 0.306480 seconds
+runtime 0.308804 seconds
+runtime 0.306638 seconds
+runtime 0.306614 seconds
+runtime 0.306500 seconds
+average runtime kij 0.307007 seconds
+---------------------------------
+N: 512
+runtime 0.496175 seconds
+runtime 0.493602 seconds
+runtime 0.496393 seconds
+runtime 0.495593 seconds
+runtime 0.497991 seconds
+average runtime ijk 0.495951 seconds
+---------------------------------
+runtime 0.495807 seconds
+runtime 0.497600 seconds
+runtime 0.497119 seconds
+runtime 0.496997 seconds
+runtime 0.495286 seconds
+average runtime jik 0.496562 seconds
+---------------------------------
+runtime 0.327834 seconds
+runtime 0.328194 seconds
+runtime 0.328058 seconds
+runtime 0.327456 seconds
+runtime 0.328657 seconds
+average runtime kij 0.328040 seconds
+---------------------------------
+N: 1000
+runtime 3.578539 seconds
+runtime 3.561751 seconds
+runtime 3.568477 seconds
+runtime 3.566310 seconds
+runtime 3.569428 seconds
+average runtime ijk 3.568901 seconds
+---------------------------------
+runtime 3.506694 seconds
+runtime 3.525618 seconds
+runtime 3.526972 seconds
+runtime 3.514619 seconds
+runtime 3.510132 seconds
+average runtime jik 3.516807 seconds
+---------------------------------
+runtime 2.459693 seconds
+runtime 2.465331 seconds
+runtime 2.463068 seconds
+runtime 2.465552 seconds
+runtime 2.463559 seconds
+average runtime kij 2.463441 seconds
+---------------------------------
+N: 1024
+runtime 4.095243 seconds
+runtime 4.170618 seconds
+runtime 4.204999 seconds
+runtime 4.144729 seconds
+runtime 4.104708 seconds
+average runtime ijk 4.144059 seconds
+---------------------------------
+runtime 4.575884 seconds
+runtime 4.587889 seconds
+runtime 4.620188 seconds
+runtime 4.566846 seconds
+runtime 4.623445 seconds
+average runtime jik 4.594850 seconds
+---------------------------------
+runtime 2.606650 seconds
+runtime 2.639667 seconds
+runtime 2.641201 seconds
+runtime 2.640431 seconds
+runtime 2.642210 seconds
+average runtime kij 2.634032 seconds
+---------------------------------
+N: 2000
+runtime 29.524082 seconds
+runtime 29.862016 seconds
+runtime 29.810087 seconds
+runtime 29.532753 seconds
+runtime 29.477145 seconds
+average runtime ijk 29.641217 seconds
+---------------------------------
+runtime 28.380870 seconds
+runtime 27.970582 seconds
+runtime 27.905749 seconds
+runtime 27.909499 seconds
+runtime 27.914483 seconds
+average runtime jik 28.016237 seconds
+---------------------------------
+runtime 19.468430 seconds
+runtime 19.451693 seconds
+runtime 19.454917 seconds
+runtime 84.916513 seconds
+runtime 20.140015 seconds
+average runtime kij 32.686314 seconds
+---------------------------------
+N: 2048
+runtime 105.949928 seconds
+runtime 104.326293 seconds
+runtime 104.398092 seconds
+runtime 104.915845 seconds
+runtime 106.172760 seconds
+average runtime ijk 105.152584 seconds
+---------------------------------
+runtime 102.386573 seconds
+runtime 102.411811 seconds
+runtime 103.871850 seconds
+runtime 102.822556 seconds
+runtime 103.693596 seconds
+average runtime jik 103.037277 seconds
+---------------------------------
+runtime 21.820910 seconds
+runtime 21.851039 seconds
+runtime 21.745858 seconds
+runtime 21.776979 seconds
+runtime 21.807392 seconds
+average runtime kij 21.800436 seconds
+---------------------------------
+Flag: -O3
+N: 500
+runtime 0.441040 seconds
+runtime 0.439763 seconds
+runtime 0.440798 seconds
+runtime 0.458428 seconds
+runtime 0.439144 seconds
+average runtime ijk 0.443835 seconds
+---------------------------------
+runtime 0.452551 seconds
+runtime 0.444465 seconds
+runtime 0.444664 seconds
+runtime 0.449919 seconds
+runtime 0.444304 seconds
+average runtime jik 0.447181 seconds
+---------------------------------
+runtime 0.307384 seconds
+runtime 0.306844 seconds
+runtime 0.307238 seconds
+runtime 0.320052 seconds
+runtime 0.314764 seconds
+average runtime kij 0.311256 seconds
+---------------------------------
+N: 512
+runtime 0.489978 seconds
+runtime 0.496935 seconds
+runtime 0.490973 seconds
+runtime 0.491000 seconds
+runtime 0.495015 seconds
+average runtime ijk 0.492780 seconds
+---------------------------------
+runtime 0.510040 seconds
+runtime 0.495234 seconds
+runtime 0.496970 seconds
+runtime 0.490377 seconds
+runtime 0.489206 seconds
+average runtime jik 0.496365 seconds
+---------------------------------
+runtime 0.347748 seconds
+runtime 0.328596 seconds
+runtime 0.329267 seconds
+runtime 0.329392 seconds
+runtime 0.329618 seconds
+average runtime kij 0.332924 seconds
+---------------------------------
+N: 1000
+runtime 3.698861 seconds
+runtime 3.702921 seconds
+runtime 3.715085 seconds
+runtime 3.696330 seconds
+runtime 3.700849 seconds
+average runtime ijk 3.702809 seconds
+---------------------------------
+runtime 3.611093 seconds
+runtime 3.616661 seconds
+runtime 3.625503 seconds
+runtime 3.629041 seconds
+runtime 3.621840 seconds
+average runtime jik 3.620828 seconds
+---------------------------------
+runtime 2.496474 seconds
+runtime 2.505088 seconds
+runtime 2.488547 seconds
+runtime 2.472000 seconds
+runtime 2.489275 seconds
+average runtime kij 2.490277 seconds
+---------------------------------
+N: 1024
+runtime 5.973619 seconds
+runtime 5.901469 seconds
+runtime 6.019842 seconds
+runtime 6.034888 seconds
+runtime 5.969858 seconds
+average runtime ijk 5.979935 seconds
+---------------------------------
+runtime 5.858501 seconds
+runtime 5.861715 seconds
+runtime 5.842862 seconds
+runtime 5.857733 seconds
+runtime 5.844148 seconds
+average runtime jik 5.852992 seconds
+---------------------------------
+runtime 2.661145 seconds
+runtime 2.678437 seconds
+runtime 2.669280 seconds
+runtime 2.667413 seconds
+runtime 2.657231 seconds
+average runtime kij 2.666701 seconds
+---------------------------------
+N: 2000
+runtime 30.758331 seconds
+runtime 30.721567 seconds
+runtime 30.721193 seconds
+runtime 30.693921 seconds
+runtime 30.776125 seconds
+average runtime ijk 30.734227 seconds
+---------------------------------
+runtime 29.041237 seconds
+runtime 29.010277 seconds
+runtime 29.015090 seconds
+runtime 29.122223 seconds
+runtime 29.105939 seconds
+average runtime jik 29.058953 seconds
+---------------------------------
+runtime 20.326449 seconds
+runtime 20.381798 seconds
+runtime 20.356429 seconds
+runtime 20.371717 seconds
+runtime 20.353710 seconds
+average runtime kij 20.358021 seconds
+---------------------------------
+N: 2048
+runtime 110.257372 seconds
+runtime 110.096554 seconds
+runtime 110.185898 seconds
+runtime 110.144650 seconds
+runtime 110.194337 seconds
+average runtime ijk 110.175762 seconds
+---------------------------------
+runtime 104.054754 seconds
+runtime 103.846776 seconds
+runtime 103.865893 seconds
+runtime 103.870387 seconds
+runtime 103.981868 seconds
+average runtime jik 103.923936 seconds
+---------------------------------
+runtime 21.743691 seconds
+runtime 22.003576 seconds
+runtime 21.765472 seconds
+runtime 21.683973 seconds
+runtime 21.502663 seconds
+average runtime kij 21.739875 seconds
+---------------------------------
