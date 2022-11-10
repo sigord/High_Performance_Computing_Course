@@ -62,7 +62,7 @@ def get_rule_pattern(rule_id : int) -> List[List[int]]:
     
     Example Rule 110
     pattern                    111 110 101 100 011 010 001 000
-	new state (110 in binary)   0   1   1   0   1   1   1   0
+    new state (110 in binary)   0   1   1   0   1   1   1   0
     result                         110 101     011 010 001
     """
     binary_rule = "{0:08b}".format(rule_id)
@@ -104,7 +104,6 @@ def start_automaton(epochs : int, array_len : int,
     # update state
     for _ in range(epochs):
         # get border values
-        # print(rank)
         array = get_ghost_cells(array, comm, rank, size, periodical)
         # print initial state (array)
         full_array = comm.gather(array, root=0) if size > 1 else [array]
